@@ -1,6 +1,6 @@
 # Realtime Chat App
 
-aplikasi chatting secara realtime berbasis web 
+Aplikasi chatting secara realtime berbasis web 
 
 ## Screenshoot :
 
